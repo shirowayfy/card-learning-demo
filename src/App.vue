@@ -46,7 +46,7 @@
 
     <div
       id="modal"
-      class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 p-4 z-50 h-3/6 w-full"
+      class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 p-4 z-50 h-3/6 w-full max-w-lg"
       :class="isOpen ? '' : 'hide'"
     >
       <div
